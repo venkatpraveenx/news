@@ -1,0 +1,30 @@
+body{
+	
+	background-color:#2B3856;
+}
+
+#SideBar{
+	height:100vh;
+	width:8%;
+	background-color:#D1D0CE;
+}
+
+#Icons{
+	position:relative;
+	top:20%;
+	background-color:#E5E4E2;
+}
+
+.Icon{
+	width:90%;
+	padding:15% 5% 5% 5%;
+	max-height:40px;
+}
+
+#Play{
+	position:fixed;
+	left:20%;
+	height:95%;
+	width:78%;
+	background-color:red;
+}
