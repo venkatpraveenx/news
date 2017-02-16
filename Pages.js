@@ -9,11 +9,11 @@ $('.Icon').click(function(){
 	}
 	
 	if( $(this).attr("value") === "Kalaigner"){
-		$('#Feed').attr("src","https://www.youtube.com/embed/juf8YqrqMHs");
+		$('#Feed').attr("src","https://www.youtube.com/embed/juf8YqrqMHs?autoplay=1");
 	}
 	
 	if( $(this).attr("value") === "News18"){
-		$('#Feed').attr("src","https://www.youtube.com/embed/V5zwCGw43jg");
+		$('#Feed').attr("src","https://www.youtube.com/embed/V5zwCGw43jg?autoplay=1");
 	}
 	
 	if( $(this).attr("value") === "Thanthi"){
