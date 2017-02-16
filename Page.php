@@ -25,7 +25,7 @@
 		
 		
 		<div id="Play">
-			<iframe id="Feed"></iframe>
+			<iframe id="Feed" frameborder="0" allowfullscreen></iframe>
 		</div>
 	
 		<script type="text/javascript" src="jquery.js"></script>

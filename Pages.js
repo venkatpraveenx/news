@@ -8,15 +8,17 @@ $('.Icon').click(function(){
 		$('#Feed').attr("src","http://ns7.tv/video-streaming.html");
 	}
 	
-	if( $(this).attr("value") === "Kalaignar"){
-		$('#Feed').attr("src","https://www.youtube.com/watch?v=juf8YqrqMHs");
+	if( $(this).attr("value") === "Kalaigner"){
+		$('#Feed').attr("src","https://www.youtube.com/embed/juf8YqrqMHs");
 	}
 	
 	if( $(this).attr("value") === "News18"){
-		$('#Feed').attr("src","https://www.youtube.com/watch?v=V5zwCGw43jg");
+		$('#Feed').attr("src","https://www.youtube.com/embed/V5zwCGw43jg");
 	}
 	
 	if( $(this).attr("value") === "Thanthi"){
 		$('#Feed').attr("src","http://www.thanthitv.com");
 	}
 });
+
+
