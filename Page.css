@@ -5,6 +5,7 @@ body{
 
 #SideBar{
 	height:100vh;
+	margin:0 0 0 0;
 	width:8%;
 	background-color:#D1D0CE;
 }
@@ -23,8 +24,14 @@ body{
 
 #Play{
 	position:fixed;
-	left:20%;
+	left:15%;
+	bottom:2%;
 	height:95%;
-	width:78%;
+	width:80%;
 	background-color:red;
+}
+
+#Play iframe{
+	width:100%;
+	height:100%;
 }
